@@ -1,8 +1,6 @@
 # Analytics API for User Activity and Post Engagement
 
-![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-![Node.js Version](https://img.shields.io/badge/node.js-%3E%3D16.0.0-blue.svg)
+
 
 A modular, secure Analytics API built with Node.js, Express, and MongoDB. It provides a robust system for ingesting user activity events, performing daily aggregations via background jobs, and exposing insightful metrics through a secure, admin-only interface.
 
@@ -58,7 +56,7 @@ Follow these instructions to get the project up and running on your local machin
 
 1.  **Clone the Repository**
     ```bash
-    git clone https://github.com/your-username/analytics-api.git
+    git clone https://github.com/WasiullahSahito/analytics.git
     cd analytics-api
     ```
 
